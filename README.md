@@ -1,2 +1,2 @@
-# Computaci-n-Concurrente
+# Computacion-Concurrente
 Repositorio para la materia de Computación Concurrente
